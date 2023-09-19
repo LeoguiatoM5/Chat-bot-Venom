@@ -1,4 +1,4 @@
-# Criando um Chat Bot com Venom
+## Criando um Chat Bot com Venom
 
 Primeiramente, gostaria de expressar meu agradecimento especial à Cubos Academy. Devido ao conhecimento adquirido em programação assíncrona e tratamento de erro durante o curso, pude realizar este pequeno projeto. Embora seja simples, foi de grande satisfação aplicar todos os métodos aprendidos aqui.
 
@@ -10,7 +10,7 @@ Certifique-se de que você instalou o Venom corretamente usando o comando `npm i
 
 ## Crie um Arquivo JavaScript
 
-Crie um arquivo JavaScript (por exemplo, `bot.js`) e siga a estrutura abaixo para inserir sua lógica ou simplesmente copie o código pronto do `bot.js`.
+Crie um arquivo JavaScript (por exemplo, `bot.js`) e siga a estrutura abaixo para inserir sua lógica ou simplesmente copie o código pronto do `bot.js`:
 
 ```
 const venom = require('venom-bot');
@@ -38,33 +38,27 @@ function start(client) {
     }
   });
 }
-```
-##Configuração da Sessão
 
+```
+## Configuração da Sessão
 No código, substitua 'session-name' pelo nome da sessão que você deseja usar para seu chat bot.
 
-##Lógica do Chat Bot
-
+## Lógica do Chat Bot
 O código do chat bot já inclui a lógica para coletar informações dos usuários em passos. Personalize essa lógica de acordo com suas necessidades. O código faz uso de await para lidar com operações assíncronas, como envio de mensagens e recebimento de mensagens dos usuários.
 
-##Tratamento de Erro com Try-Catch
-
+## Tratamento de Erro com Try-Catch
 No código, você verá o uso de blocos try e catch para tratar erros. Esses blocos são especialmente úteis ao lidar com operações assíncronas, garantindo que erros sejam tratados de forma adequada.
 
-##Execução do Chat Bot
-
+## Execução do Chat Bot
 Abra um terminal, navegue até o diretório onde o arquivo JavaScript está localizado e execute o chat bot usando node bot.js.
 
-##QR Code para Autenticação no WhatsApp
-
+## QR Code para Autenticação no WhatsApp
 Após executar o chat bot, um QR code será exibido no terminal. Abra o aplicativo WhatsApp no seu dispositivo móvel e use a opção de escanear QR code para autenticar o bot.
 
-##Teste seu Chat Bot
-
+## Teste seu Chat Bot
 Após escanear o QR code, seu chat bot estará ativo. Você pode testá-lo enviando mensagens para a sessão configurada.
 
-##Contribua com Melhorias
-
+## Contribua com Melhorias
 Se você tiver melhorias para o código do chat bot ou encontrar bugs, sinta-se à vontade para fazer um Pull Request para o repositório do Venom. Aqui está como você pode contribuir:
 
 Faça um fork do repositório Venom no GitHub.
