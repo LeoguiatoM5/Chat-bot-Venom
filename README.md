@@ -67,7 +67,7 @@ Após escanear o QR code, seu chat bot estará ativo. Você pode testá-lo envia
 ## Contribua com Melhorias
 Se você tiver melhorias para o código do chat bot ou encontrar bugs, sinta-se à vontade para fazer um Pull Request para o repositório do Venom. Aqui está como você pode contribuir:
 
-Faça um fork do repositório  no .
+Faça um fork do repositório  .
 Clone seu fork em sua máquina local.
 Faça as alterações desejadas no código do chat bot.
 Envie as alterações para o seu fork no GitHub.
