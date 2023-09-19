@@ -4,6 +4,12 @@ Primeiramente, gostaria de expressar meu agradecimento especial à Cubos Academy
 
 Aqui estão os passos para criar um chat bot usando o código fornecido no README, com a inclusão dos conceitos que você aprendeu no curso da Cubos Academy sobre programação assíncrona e tratamento de erro:
 
+## Inicie um novo projeto Node.js executando o seguinte comando na pasta onde deseja criar seu projeto:
+
+```bash
+npm init -y
+```
+
 ## Instalação do Venom
 
 Certifique-se de que você instalou o Venom corretamente usando o comando `npm i --save venom-bot` ou a versão Nightly, conforme suas necessidades.
@@ -68,6 +74,6 @@ Envie as alterações para o seu fork no GitHub.
 Crie um Pull Request para o repositório principal do Venom com suas alterações.
 Os mantenedores do repositório revisarão suas alterações e, se aprovadas, as incorporarão ao projeto principal.
 Mantenha-se Atualizado
-Fique de olho no repositório do Venom para atualizações e melhorias. Você pode sincronizar seu fork com o repositório principal para manter seu código atualizado.
+Fique de olho no repositório do [Venom](https://docs.orkestral.io/venom) para atualizações e melhorias. Você pode sincronizar seu fork com o repositório principal para manter seu código atualizado.
 
 Agora você tem um chat bot funcionando e está pronto para começar a interagir com os usuários ou melhorar o código conforme necessário.
