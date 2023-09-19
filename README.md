@@ -65,7 +65,7 @@ Após executar o chat bot, um QR code será exibido no terminal. Abra o aplicati
 Após escanear o QR code, seu chat bot estará ativo. Você pode testá-lo enviando mensagens para a sessão configurada.
 
 ## Contribua com Melhorias
-Se você tiver melhorias para o código do chat bot ou encontrar bugs, sinta-se à vontade para fazer um Pull Request para o repositório do Venom. Aqui está como você pode contribuir:
+Se você tiver melhorias para o código do chat bot ou encontrar bugs, sinta-se à vontade para fazer um Pull Request . Aqui está como você pode contribuir:
 
 Faça um fork do repositório  .
 Clone seu fork em sua máquina local.
@@ -74,6 +74,6 @@ Envie as alterações para o seu fork no GitHub.
 Crie um Pull Request para o repositório principal com suas alterações.
 Os mantenedores do repositório revisarão suas alterações e, se aprovadas, as incorporarão ao projeto principal.
 Mantenha-se Atualizado
-Fique de olho no repositório do [Venom](https://docs.orkestral.io/venom) para atualizações e melhorias. Você pode sincronizar seu fork com o repositório principal para manter seu código atualizado.
+Fique de olha na documentação do [Venom](https://docs.orkestral.io/venom) para  atualizações . Você pode sincronizar seu fork com o repositório principal para manter seu código atualizado.
 
 Agora você tem um chat bot funcionando e está pronto para começar a interagir com os usuários ou melhorar o código conforme necessário.
