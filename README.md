@@ -2,7 +2,7 @@
 
 Primeiramente, gostaria de expressar meu agradecimento especial à Cubos Academy. Devido ao conhecimento adquirido em programação assíncrona e tratamento de erro durante o curso, pude realizar este pequeno projeto. Embora seja simples, foi de grande satisfação aplicar todos os métodos aprendidos aqui.
 
-Aqui estão os passos para criar um chat bot usando o código fornecido no README, com a inclusão dos conceitos que você aprendeu no curso da Cubos Academy sobre programação assíncrona e tratamento de erro:
+Aqui estão os passos para criar um chat bot usando o código fornecido no README, com a inclusão dos conceitos  sobre programação assíncrona e tratamento de erro:
 
 ## Inicie um novo projeto Node.js executando o seguinte comando na pasta onde deseja criar seu projeto:
 
