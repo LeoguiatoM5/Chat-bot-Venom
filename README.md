@@ -16,7 +16,7 @@ Certifique-se de que você instalou o Venom corretamente usando o comando `npm i
 
 ## Crie um Arquivo JavaScript
 
-Crie um arquivo JavaScript (por exemplo, `bot.js`) e siga a estrutura abaixo para inserir sua lógica ou simplesmente copie o código pronto do `bot.js`:
+Crie um arquivo JavaScript (por exemplo, `bot.js`) e siga a estrutura abaixo para inserir sua lógica ou simplesmente copie o código pronto do `bot.js` e faça as alterações de interação, lembra-se esse código é puramente didático:
 
 ```
 const venom = require('venom-bot');
