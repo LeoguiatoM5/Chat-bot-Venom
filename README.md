@@ -72,7 +72,7 @@ Clone seu fork em sua máquina local.
 Faça as alterações desejadas no código do chat bot.
 Envie as alterações para o seu fork no GitHub.
 Crie um Pull Request para o repositório principal com suas alterações.
-Os mantenedores do repositório revisarão suas alterações e, se aprovadas, as incorporarão ao projeto principal.
+Revisarei o código, se aprovado, será incorporada ao projeto principal.
 Mantenha-se Atualizado
 Fique de olha na documentação do [Venom](https://docs.orkestral.io/venom) para  atualizações . Você pode sincronizar seu fork com o repositório principal para manter seu código atualizado.
 
